@@ -1,2 +1,2 @@
 # Landing-page
-Land page created for study,usin bootstrap https://ggbtunga.github.io/Landing-page/
+Landing page created for study,using bootstrap https://ggbtunga.github.io/Landing-page/
